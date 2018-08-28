@@ -1,0 +1,10 @@
+.buildpath
+.settings
+.vscode
+.project
+.pydevproject
+*.pyc
+__pycache__
+
+# avoid adding private keys
+private.py
